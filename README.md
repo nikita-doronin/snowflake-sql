@@ -1,3 +1,19 @@
-# Snowflake SQL examples
+# Snowflake examples
 
-Queries examples on using Snowflake SQL during [Snowflake Courses](https://learn.snowflake.com/en/courses/) completion.
+Queries examples on using Snowflake SQL and Streamlit Data Applications during [Snowflake Courses](https://learn.snowflake.com/en/courses/) completion.
+
+## Badge 1
+Check out my [Badge 1 -  Data Warehousing](https://achieve.snowflake.com/0b921ff9-f623-4a4a-a309-716c0f429997):
+
+- Proof of the ability to create, edit, and drop Snowflake databases, schemas, tables, views, file formats, and stages.
+- Proof of the ability to load and query JSON data, including the use of Path notation and Cast statements.
+- Proof of the ability to create and modify compute resources (Snowflake Warehouses).
+- Proof of the ability to load data into tables using insert statements, Snowflake's Load Data Wizard, and COPY INTO statements.
+
+## Badge 3
+Check out my [Badge 3 -  Data Application Builders](https://achieve.snowflake.com/e1449c99-831c-4793-bc3c-2a5d47e89c9a):
+
+- Proof of the ability to create UI entry forms in Streamlit to collect data/
+- Proof of the ability to write Python to insert collected data into Snowflake tables Set Up GitHub to edit and manage code.
+- Proof of the ability to make REST API calls to collect data.
+- Proof of the ability to write Python to retrieve data from Snowflake tables.
