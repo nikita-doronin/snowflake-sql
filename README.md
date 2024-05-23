@@ -13,7 +13,17 @@ Check out my [Badge 1 -  Data Warehousing](https://achieve.snowflake.com/0b921ff
 ## Badge 3
 Check out my [Badge 3 -  Data Application Builders](https://achieve.snowflake.com/e1449c99-831c-4793-bc3c-2a5d47e89c9a):
 
-- Proof of the ability to create UI entry forms in Streamlit to collect data/
+- Proof of the ability to create UI entry forms in Streamlit to collect data.
 - Proof of the ability to write Python to insert collected data into Snowflake tables Set Up GitHub to edit and manage code.
 - Proof of the ability to make REST API calls to collect data.
 - Proof of the ability to write Python to retrieve data from Snowflake tables.
+
+## Badge 4
+Check out my [Badge 4 -  Data Lake](https://achieve.snowflake.com/9e57cb65-6472-40c4-a9cb-d6b55619b3dc):
+
+- Proof of the ability to create, edit and use Snowflake STAGE objects.
+- Proof of the ability to query STAGED DATA prior to load.
+- Proof of the ability to query GeoSpatial Data and use GeoSpatial Functions.
+- Proof of the ability to create EXTERNAL TABLES and MATERIALIZED VIEWS.
+- Proof of the ability to design, build, and call USER DEFINED FUNCTIONS.
+- Proof of the ability to work with PARQUET data and describe ICEBERG TABLES.
