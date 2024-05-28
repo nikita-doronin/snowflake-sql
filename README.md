@@ -27,3 +27,12 @@ Check out my [Badge 4 -  Data Lake](https://achieve.snowflake.com/9e57cb65-6472-
 - Proof of the ability to create EXTERNAL TABLES and MATERIALIZED VIEWS.
 - Proof of the ability to design, build, and call USER DEFINED FUNCTIONS.
 - Proof of the ability to work with PARQUET data and describe ICEBERG TABLES.
+
+## Badge 5
+Check out my [Badge 5 -  Data Engineering](https://achieve.snowflake.com/54c56f61-c043-4885-a5d3-81ccecb04d97):
+
+- Proof of the ability to convert Timezones with Snowflake Date/Time Data Types.
+- Proof of the ability to map Approximate End User Locations via IP Addresses.
+- Proof of the ability to create & run SNOWFLAKE TASKS and MERGE Statements.
+- Proof of the ability to create a STREAM for Change Data Capture Functionality.
+- Proof of the ability to create a SNOWPIPE for Event-Driven, Continuous Loading.
