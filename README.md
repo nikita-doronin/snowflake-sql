@@ -36,3 +36,9 @@ Check out my [Badge 5 -  Data Engineering](https://achieve.snowflake.com/54c56f6
 - Proof of the ability to create & run SNOWFLAKE TASKS and MERGE Statements.
 - Proof of the ability to create a STREAM for Change Data Capture Functionality.
 - Proof of the ability to create a SNOWPIPE for Event-Driven, Continuous Loading.
+
+## Badge 6
+Check out my [Badge 6 - Data Science](https://achieve.snowflake.com/60bc1809-aa8a-449f-9b12-f5bf858f1b51):
+
+- Proof of the ability to use Artificial Intelligence and Machine Learning within Snowflake.
+- Proof of the ability to use Cortex Playground, Cortex Analyst, various Large Language Models (LLMs), prompt engineering, forecasting, classification.
